@@ -1,0 +1,2 @@
+# xbindkeys
+Xbindkeys  config
